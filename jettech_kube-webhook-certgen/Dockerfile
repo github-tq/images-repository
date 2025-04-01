@@ -1,1 +1,1 @@
-FROM jettech/kube-webhook-certgen:v1.5.2
+FROM docker.io/jettech/kube-webhook-certgen:v1.5.2
