@@ -1,1 +1,1 @@
-FROM projecthami/hami:2.4.0
+FROM projecthami/hami:v2.4.0
